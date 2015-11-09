@@ -1,0 +1,4 @@
+C:\Users\Rich\Documents\GitHub\Apps\BudgetPal\BudgetPal\bin\Debug\BudgetPal.dll
+C:\Users\Rich\Documents\GitHub\Apps\BudgetPal\BudgetPal\bin\Debug\BudgetPal.pdb
+C:\Users\Rich\Documents\GitHub\Apps\BudgetPal\BudgetPal\obj\Debug\BudgetPal.dll
+C:\Users\Rich\Documents\GitHub\Apps\BudgetPal\BudgetPal\obj\Debug\BudgetPal.pdb
